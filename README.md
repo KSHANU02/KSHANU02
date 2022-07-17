@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KSHANU02
-- 👀 I’m interested in data science.
+- 👀 I’m interested in data science using python programmig lenguage.
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on realtime project in data science
 - 📫 How to reach me via email or github (KSHANU02) 
